@@ -20,4 +20,4 @@ This project provides a detailed exploration of ethical hacking, focusing on the
 - **Master Hash Algorithms**: Understand the properties of hash functions, their applications in cybersecurity, and how to implement them using Linux commands.
 - **Perform Full Disk Encryption**: Learn how to encrypt a USB drive using dm-crypt and LUKS, ensuring data protection even if the device is lost or stolen.
 - **Explore Cryptographic Attacks**: Understand the vulnerabilities of hash functions, including collision attacks, pre-image attacks, and how to mitigate them.
-- 
+ 
